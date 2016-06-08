@@ -49,6 +49,8 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bilderliste.cs" />
+    <Compile Include="Controller.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

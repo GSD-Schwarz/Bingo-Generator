@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Awsome-Bingo-Karten-Generator", "Awsome-Bingo-Karten-Generator\Awsome-Bingo-Karten-Generator.csproj", "{07A1EE5E-EDF0-46F4-90BE-B322EB08532E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{95B0C913-CE84-43B9-8AAA-C83932144068}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

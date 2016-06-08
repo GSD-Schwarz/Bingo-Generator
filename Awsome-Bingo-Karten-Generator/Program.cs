@@ -16,7 +16,7 @@ namespace Awsome_Bingo_Karten_Generator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Controller _Contoller = new Controller();
+           
             Application.Run(new Form1());
         }
     }
