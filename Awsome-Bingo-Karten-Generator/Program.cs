@@ -18,7 +18,7 @@ namespace Awsome_Bingo_Karten_Generator
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
 
-            Application.Run(new GUI_Bingoformular(9));
+            Application.Run(new GUI_Bingoformular(9,true));
 
         }
     }
