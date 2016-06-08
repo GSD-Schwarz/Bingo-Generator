@@ -16,6 +16,7 @@ namespace Awsome_Bingo_Karten_Generator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+           
             Application.Run(new Form1());
         }
     }
